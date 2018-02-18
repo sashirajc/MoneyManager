@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoLocal": {
+    "host": "mongodb",
+    "port": 27017,
+    "url": "mongodb://127.0.0.1:27017",
+    "database": "moneyManagerDB",
+    "password": "",
+    "name": "mongoLocal",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
